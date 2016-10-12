@@ -5,9 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Task9_1"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Height="42" Margin="68,69,0,0" VerticalAlignment="Top" Width="89" Click="button_Click"/>
+        Title="MainWindow" Height="648.039" Width="985.784">
+    <Grid Margin="0,10,0,0" HorizontalAlignment="Left" Width="976">
+        <Menu x:Name="menu" Height="460" Margin="897,0,0,147" VerticalAlignment="Bottom"/>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="585" SelectionChanged="listBox_SelectionChanged"/>
+        <Button x:Name="button1" Content="Click to choose&#xD;&#xA; .dll file" HorizontalAlignment="Left" Height="44" Margin="897,89,-2,0" VerticalAlignment="Top" Width="81" Click="button1_Click"/>
+        <Button x:Name="button1_Copy" Content="Click to choose&#xD;&#xA;all types for&#xA; .dll file" HorizontalAlignment="Left" Height="60" Margin="895,179,0,0" VerticalAlignment="Top" Width="81"/>
+        <Button x:Name="button" Content="Open" HorizontalAlignment="Left" VerticalAlignment="Top" Width="79" Margin="897,0,0,0" Click="button_Click_1"/>
+        <ListBox x:Name="listBox_Copy" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="585" SelectionChanged="listBox_SelectionChanged" Margin="0,89,0,0"/>
+        <ListBox x:Name="listBox_Copy1" HorizontalAlignment="Left" Height="71" VerticalAlignment="Top" Width="585" SelectionChanged="listBox_SelectionChanged" Margin="0,179,0,0"/>
 
     </Grid>
 </Window>

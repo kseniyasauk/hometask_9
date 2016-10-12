@@ -12,3 +12,17 @@ C:\Users\PC\Documents\VisualStudio2015\Projects\Task9_Reflection_UI_apps\Task9_1
 C:\Users\PC\Documents\VisualStudio2015\Projects\Task9_Reflection_UI_apps\Task9_1\obj\Debug\Task9_1.csproj.GenerateResource.Cache
 C:\Users\PC\Documents\VisualStudio2015\Projects\Task9_Reflection_UI_apps\Task9_1\obj\Debug\Task9_1.exe
 C:\Users\PC\Documents\VisualStudio2015\Projects\Task9_Reflection_UI_apps\Task9_1\obj\Debug\Task9_1.pdb
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\bin\Debug\Task9_1.exe.config
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1.exe
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1.pdb
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\bin\Debug\Task9_1.exe
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\bin\Debug\Task9_1.pdb
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1.csprojResolveAssemblyReference.cache
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\MainWindow.g.cs
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\App.g.cs
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1_MarkupCompile.cache
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1_MarkupCompile.lref
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\MainWindow.baml
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1.g.resources
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1.Properties.Resources.resources
+C:\Users\Kseniya_Sauk\Documents\VisualStudio2015\Projects\hometask_9\Task9_1\obj\Debug\Task9_1.csproj.GenerateResource.Cache
